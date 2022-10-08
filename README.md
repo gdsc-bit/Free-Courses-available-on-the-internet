@@ -13,7 +13,7 @@ How to CONTRIBUTE  To this repo?
 
 
 
-     [
+    ``` [
        {
           "id" : "3",
           "courseName" : "100 days of Python by Angela Yu",
@@ -21,11 +21,11 @@ How to CONTRIBUTE  To this repo?
           "courseLink" : "https://www.udemy.com/course/100-days-of-code/",
            "type":"paid"
          
-        }
+       }
      ]
 
 
-[
+   [
        {
           "id" : "1",
           "courseName" : "Free Flutter Course by Vandad Nahavandipoor",
@@ -33,4 +33,4 @@ How to CONTRIBUTE  To this repo?
           "courseLink" : "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
           "type":"free"
         }
-     ]
+     ]```
