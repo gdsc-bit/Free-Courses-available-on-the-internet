@@ -1,20 +1,31 @@
+[   
    {
-      "id" : "3",
+      "id" : "1",
       "courseName" : "100 days of Python by Angela Yu",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/100-days-of-code/",
        "type":"paid"
      
-   }
- ]
-
-
-[
+   }, 
    {
-      "id" : "1",
+      "id" : "2",
       "courseName" : "Free Flutter Course by Vandad Nahavandipoor",
       "platform" : "Youtube",
       "courseLink" : "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
+      "type":"free"
+    },
+   {
+      "id" : "3",
+      "courseName" : "Fundamentals of digital marketing",
+      "platform" : "Google",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+      "type":"free"
+    },
+    {
+      "id" : "4",
+      "courseName" : "Google Cloud Computing Foundations",
+      "platform" : "Google",
+      "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
       "type":"free"
     }
  ] 
