@@ -27,12 +27,19 @@
       "platform" : "Google",
       "courseLink" : "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
       "type":"free"
-    }
+    },
    {
       "id" : "5",
       "courseName" : "Building Web Applications with Java Spring Boot",
       "platform" : "Alison",
       "courseLink" : "https://alison.com/course/building-web-applications-with-java-spring-boot",
       "type":"free"
-    }
+    },
+   {
+      "id" : "6",
+      "courseName": "Python for everybody",
+      "platform" : "Google",
+      "courseLink" : "https://www.py4e.com/lessons",
+      "type" : "free"
+   }
  ] 
