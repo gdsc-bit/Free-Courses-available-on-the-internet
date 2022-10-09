@@ -35,4 +35,12 @@
       "courseLink" : "https://alison.com/course/building-web-applications-with-java-spring-boot",
       "type":"free"
     }
+ {
+      "id" : "3",
+      "courseName" : "100 days of Python by Angela Yu",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/100-days-of-code/",
+       "type":"paid"
+     
+   }
  ] 
