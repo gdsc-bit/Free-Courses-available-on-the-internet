@@ -40,5 +40,12 @@
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
+   },
+   {
+      "id": "7",
+      "courseName": " Python for Beginners",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+      "type": "free"
    }
 ]
