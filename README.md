@@ -22,10 +22,7 @@ How to CONTRIBUTE  To this repo?
            "type":"paid"
          
        }
-     ]
-
-
-   [
+     
        {
           "id" : "1",
           "courseName" : "Free Flutter Course by Vandad Nahavandipoor",
