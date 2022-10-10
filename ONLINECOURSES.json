@@ -47,5 +47,12 @@
       "platform": "youtube",
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
-   }
+   },
+     {
+      "id" : "8",
+      "courseName" : "Python basics by freecodecamp",
+      "platform" : "Youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=rfscVS0vtbw&t=67s",
+      "type":"free"
+    },
 ]
