@@ -47,5 +47,13 @@
       "platform": "youtube",
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
+   },
+   {
+      "id": "8",
+      "courseName": " Introduction to JavaScript:First Steps",
+      "platform": "Google",
+      "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
+      "type": "free"
    }
+   
 ]
