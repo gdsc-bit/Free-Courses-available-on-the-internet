@@ -30,4 +30,12 @@ How to CONTRIBUTE  To this repo?
           "courseLink" : "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
           "type":"free"
         }
+        {
+          "id" : "9",
+          "courseName" : "Introduction to devsecops",
+          "platform" : "Coursera",
+          "courseLink" : "https://www.coursera.org/learn/introduction-to-devsecops",
+          "type":"paid"
+        }
+        
      ] 
