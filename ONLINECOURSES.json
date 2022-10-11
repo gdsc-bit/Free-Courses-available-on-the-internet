@@ -1,59 +1,65 @@
 [
    {
       "id": "1",
-      "courseName": "100 days of Python by Angela Yu",
-      "platform": "Udemy",
-      "courseLink": "https://www.udemy.com/course/100-days-of-code/",
-      "type": "paid"
-   },
-   {
-      "id": "2",
       "courseName": "Free Flutter Course by Vandad Nahavandipoor",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
       "type": "free"
    },
    {
-      "id": "3",
+      "id": "2",
       "courseName": "Fundamentals of digital marketing",
       "platform": "Google",
       "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
       "type": "free"
    },
    {
-      "id": "4",
+      "id": "3",
       "courseName": "Google Cloud Computing Foundations",
       "platform": "Google",
       "courseLink": "https://learndigital.withgoogle.com/digitalgarage/course/gcloud-computing-foundations",
       "type": "free"
    },
    {
-      "id": "5",
+      "id": "4",
       "courseName": "Building Web Applications with Java Spring Boot",
       "platform": "Alison",
       "courseLink": "https://alison.com/course/building-web-applications-with-java-spring-boot",
       "type": "free"
    },
    {
-      "id": "6",
+      "id": "5",
       "courseName": "Python for everybody",
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
    },
    {
-      "id": "7",
+      "id": "6",
       "courseName": " Python for Beginners",
       "platform": "youtube",
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
    },
    {
-      "id": "8",
+      "id": "7",
       "courseName": " Introduction to JavaScript:First Steps",
       "platform": "Google",
       "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
       "type": "free"
-   }
-   
+   },
+   {
+      "id": "8",
+      "courseName": " Machine Learning for All",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "type": "free"
+   },
+   {
+      "id": "9",
+      "courseName": " IBM Data Science Professional Certificate",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
+      "type": "free"
+   },
 ]
