@@ -62,4 +62,11 @@
       "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
       "type": "free"
    },
+   {
+      "id" : "10",
+      "courseName" : "Microsoft Azure data fundamentals",
+      "platform" : "Microsoft learn",
+      "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
+      "type": "free"
+   },
 ]
