@@ -42,6 +42,28 @@
       "type": "free"
    },
    {
+
+      "id": "8",
+      "courseName": " Python for Data Science",
+      "platform": "IBM SkillsBuild",
+      "courseLink": "https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+PY0101EN+V3",
+      "type": "free"
+   },
+    {
+      "id": "9",
+      "courseName": " Data Science Methodology",
+      "platform": "IBM SkillsBuild",
+      "courseLink": "https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+DS0103EN+V3",
+      "type": "free"
+   },
+     {
+      "id": "10",
+      "courseName": " AWS Cloud Practitioner Essentials",
+      "platform": "AWS Skill Builder",
+      "courseLink": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?src=detail2",
+      "type": "free"
+   }
+
       "id": "7",
       "courseName": " Introduction to JavaScript:First Steps",
       "platform": "Google",
@@ -86,5 +108,6 @@
       "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
       "type": "free"
    },
+
 
 ]
