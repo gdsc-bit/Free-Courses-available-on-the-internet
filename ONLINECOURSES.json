@@ -64,9 +64,27 @@
    },
    {
       "id" : "10",
+
+      "courseName" : "Java Tutorial for Complete Beginners",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/java-tutorial/",
+      "type":"free"
+    },
+   {
+      "id" : "11",
+      "courseName" : "Machine Learning Crash Course with TensorFlow APIs",
+      "platform" : "Google",
+      "courseLink" : "https://developers.google.com/machine-learning/crash-course/?utm_source=&utm_medium=link&utm_campaign=GoogleDigitalGarage&utm_term=&utm_content=MLCC",
+      "type":"free"
+    },
+   
+   
+   
+{
       "courseName" : "Microsoft Azure data fundamentals",
       "platform" : "Microsoft learn",
       "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
       "type": "free"
    },
+
 ]
