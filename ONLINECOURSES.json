@@ -64,6 +64,7 @@
    },
    {
       "id" : "10",
+
       "courseName" : "Java Tutorial for Complete Beginners",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/java-tutorial/",
@@ -79,4 +80,11 @@
    
    
    
+{
+      "courseName" : "Microsoft Azure data fundamentals",
+      "platform" : "Microsoft learn",
+      "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
+      "type": "free"
+   },
+
 ]
