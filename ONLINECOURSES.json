@@ -62,8 +62,9 @@
       "platform": "AWS Skill Builder",
       "courseLink": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?src=detail2",
       "type": "free"
-   }
+   },
 
+{
       "id": "7",
       "courseName": " Introduction to JavaScript:First Steps",
       "platform": "Google",
@@ -108,6 +109,34 @@
       "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
       "type": "free"
    },
+   {
+      "id" : "13",
+      "courseName" : "Digital Skills:User Experience",
+      "platform" : "Accenture",
+      "courseLink" : "https://www.futurelearn.com/courses/digital-skills-user-experience",
+      "type":"free"
+   },
+   {
+      "id" : "14",
+      "courseName" : "Digital Skills:Artificial Intelligence",
+      "platform" : "Accenture",
+      "courseLink" : "https://www.futurelearn.com/courses/artificial-intelligence",
+      "type":"free"
+   },
+   {
+      "id" : "15",
+      "courseName" : "Cs50's introduction to computer science",
+      "platform" : "Edx",
+      "courseLink" : "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+      "type":"free"
+   },
+   {
+      "id" : "16",
+      "courseName" : "Cs50's web programming with python and javascript",
+      "platform" : "Edx",
+      "courseLink" : "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
+      "type":"free"
+   }
 
 
 ]
