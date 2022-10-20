@@ -147,4 +147,11 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+ {
+      "id" : "18",
+      "courseName" : "learn to program , the fundamentals!",
+      "platform" : "coursera",
+      "courseLink" : "https://www.coursera.org/learn/learn-to-program",
+      "type":"free"
+   },
 ]
