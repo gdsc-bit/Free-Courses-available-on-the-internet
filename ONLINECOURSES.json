@@ -147,4 +147,11 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+{
+      "id": "18",
+      "courseName": "Meta Front-End Developer Professional Certificate",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+      "type": "free"
+   },
 ]
