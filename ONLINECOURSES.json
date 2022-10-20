@@ -147,4 +147,12 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+ {
+      "id" : "21",
+      "courseName" : "Google UX Design Professional Certificate",
+      "platform" : "Coursera",
+      "courseLink" :"https://www.coursera.org/professional-certificates/conception-ux-google",
+      "type":"free"
+   },
+
 ]
