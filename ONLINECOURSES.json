@@ -104,7 +104,7 @@
    
    
    {
-      "id" : "12"
+      "id" : "12",
       "courseName" : "Microsoft Azure data fundamentals",
       "platform" : "Microsoft learn",
       "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
@@ -137,7 +137,7 @@
       "platform" : "Edx",
       "courseLink" : "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
       "type":"free"
-   }
+   },
 
 
    {
@@ -147,4 +147,28 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+   {
+      "id" : "18",
+      "courseName" : "CS50's Introduction to Artificial Intelligence with Python",
+      "platform" : "Harvard",
+      "courseLink" : "https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0",
+      "type":"free"
+   },
+
+   {
+      "id" : "19",
+      "courseName" : "Statistics and R",
+      "platform" : "Harvard",
+      "courseLink" : "https://pll.harvard.edu/course/statistics-and-r?delta=0",
+      "type":"free"
+   },
+
+   {
+      "id" : "20",
+      "courseName" : "Introduction to Data Science with Python",
+      "platform" : "Harvard",
+      "courseLink" : "https://pll.harvard.edu/course/introduction-data-science-python?delta=0",
+      "type":"free"
+   }
+   
 ]
