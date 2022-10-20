@@ -147,4 +147,12 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+{
+      "id" : "20"
+      "courseName" : "Meta Back-End Developer Professional Certificate",
+      "platform" : "Coursera",
+      "courseLink" : "ttps://www.coursera.org/professional-certificates/meta-back-end-developer?#courses",
+      "type":"free"
+   },
+
 ]
