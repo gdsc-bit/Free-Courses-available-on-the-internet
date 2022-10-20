@@ -147,4 +147,13 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+
+
+ {
+      "id" : "22",
+      "courseName" : "python basics for data science",
+      "platform" : "udemy",
+      "courseLink" : "https://www.udemy.com/course/python-for-every1/",
+      "type":"free"
+   },
 ]
