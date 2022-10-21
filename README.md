@@ -80,7 +80,7 @@ How to CONTRIBUTE  To this repo?
           "type": "free"
        },
 
-    {
+        {
           "id": "7",
           "courseName": " Introduction to JavaScript:First Steps",
           "platform": "Google",
@@ -150,14 +150,14 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Edx",
           "courseLink" : "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
           "type":"free"
-       }
+       },
        {
           "id" : "17",
           "courseName" : "AWS DevOps Tutorial For Beginners",
           "platform" : "Youtube",
           "courseLink" : "https://youtu.be/cI16T7GOPwM",
           "type":"free"
-       }
+       },
         
         {
           "id" : "18",
@@ -165,7 +165,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Udacity",
           "courseLink" : "https://www.udacity.com/course/introduction-to-python--ud1110",
           "type":"free"
-        }
+        },
         
         {
           "id" : "19",
@@ -173,7 +173,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Udacity",
           "courseLink" : "https://www.udacity.com/course/intro-to-machine-learning--ud120",
           "type":"free"
-        }
+        },
         
         {
           "id" : "20",
@@ -181,7 +181,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Udacity",
           "courseLink" : "https://www.udacity.com/course/version-control-with-git--ud123",
           "type":"free"
-        }
+        },
         
         {
           "id" : "21",
@@ -189,7 +189,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Coursera",
           "courseLink" : "https://www.coursera.org/professional-certificates/google-it-automation?irclickid=wwHX-YX0wxyIUEcVyLRCu3bZUkDViIU8ZQfl1I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
           "type":"free"
-        }
+        },
         
         {
           "id" : "22",
@@ -197,7 +197,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Coursera",
           "courseLink" : "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=wwHX-YX0wxyIUEcVyLRCu3bZUkDViIX8ZQfl1I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
           "type":"free"
-        }
+        },
         
         {
           "id" : "23",
@@ -205,7 +205,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Coursera",
           "courseLink" : "https://www.coursera.org/specializations/digital-marketing?irclickid=wwHX-YX0wxyIUEcVyLRCu3bZUkDViNT4ZQfl1I0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
           "type":"free"
-        }
+        },
         
         {
           "id" : "24",
@@ -213,7 +213,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "YouTube",
           "courseLink" : "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
           "type":"free"
-        }
+        },
         
         {
           "id" : "25",
@@ -221,7 +221,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "YouTube",
           "courseLink" : "https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
           "type":"free"
-        }
+        },
         
         {
           "id" : "26",
@@ -229,7 +229,7 @@ How to CONTRIBUTE  To this repo?
           "platform" : "YouTube",
           "courseLink" : "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
           "type":"free"
-        }
+        },
         
         {
           "id" : "27",
