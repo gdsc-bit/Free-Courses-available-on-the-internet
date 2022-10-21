@@ -231,4 +231,12 @@ How to CONTRIBUTE  To this repo?
           "type":"free"
         }
         
+        {
+          "id" : "27",
+          "courseName" : "Mastering Data Structures & Algorithms using C and C++",
+          "platform" : "Udemy",
+          "courseLink" : "https://www.udemy.com/course/datastructurescncpp/",
+          "type" : "Paid"
+        }
+        
      ] 
