@@ -41,5 +41,12 @@
       "platform" : "Google",
       "courseLink" : "https://www.py4e.com/lessons",
       "type" : "free"
-   }
+   },
+   {
+      "id" : "7",
+      "courseName": "Data Science Fundamentals with Python and SQL Specialization",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+      "type" : "free"
+   },
  ] 
