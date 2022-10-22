@@ -42,6 +42,13 @@
       "type": "free"
    },
    {
+      "id": "7",
+      "courseName": " Introduction to JavaScript:First Steps",
+      "platform": "Google",
+      "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
+      "type": "free"
+   },
+   {
 
       "id": "8",
       "courseName": " Python for Data Science",
@@ -64,35 +71,6 @@
       "type": "free"
    },
 
-{
-      "id": "7",
-      "courseName": " Introduction to JavaScript:First Steps",
-      "platform": "Google",
-      "courseLink": "https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224",
-      "type": "free"
-   },
-   {
-      "id": "8",
-      "courseName": " Machine Learning for All",
-      "platform": "Coursera",
-      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
-      "type": "free"
-   },
-   {
-      "id": "9",
-      "courseName": " IBM Data Science Professional Certificate",
-      "platform": "Coursera",
-      "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
-      "type": "free"
-   },
-   {
-      "id" : "10",
-
-      "courseName" : "Java Tutorial for Complete Beginners",
-      "platform" : "Udemy",
-      "courseLink" : "https://www.udemy.com/course/java-tutorial/",
-      "type":"free"
-   },
    {
       "id" : "11",
       "courseName" : "Machine Learning Crash Course with TensorFlow APIs",
@@ -147,6 +125,38 @@
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
    },
+
+
+   {
+      "id": "18",
+      "courseName": " Machine Learning for All",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "type": "free"
+   },
+   {
+      "id": "19",
+      "courseName": " IBM Data Science Professional Certificate",
+      "platform": "Coursera",
+      "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
+      "type": "free"
+   },
+   {
+      "id" : "20",
+
+      "courseName" : "Java Tutorial for Complete Beginners",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/java-tutorial/",
+      "type":"free"
+   },
+{
+      "id" : "21",
+      "courseName" : "My SQL Basics",
+      "platform" : "Great Learning ",
+      "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics",
+      "type":"free"
+   },
+
 
 
  {
