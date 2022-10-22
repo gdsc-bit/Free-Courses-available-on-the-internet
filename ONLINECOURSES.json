@@ -156,4 +156,11 @@
       "courseLink" : "https://www.udemy.com/course/python-for-every1/",
       "type":"free"
    },
+{
+      "id" : "23",
+      "courseName" : "Python",
+      "platform" : "Kaggle",
+      "courseLink" : "https://www.kaggle.com/learn/python",
+      "type":"free"
+   },
 ]
