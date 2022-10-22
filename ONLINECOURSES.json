@@ -169,5 +169,13 @@
       "courseLink" : "https://www.py4e.com/lessons",
       "type" : "free"
    },
-  
- ] 
+
+{
+      "id" : "23",
+      "courseName" : "Python",
+      "platform" : "Kaggle",
+      "courseLink" : "https://www.kaggle.com/learn/python",
+      "type":"free"
+   },
+]
+
