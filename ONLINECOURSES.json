@@ -115,15 +115,20 @@
       "platform" : "Edx",
       "courseLink" : "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
       "type":"free"
-   }
-
-
+   },
    {
       "id" : "17",
       "courseName" : "AWS DevOps Tutorial For Beginners",
       "platform" : "Youtube",
       "courseLink" : "https://youtu.be/cI16T7GOPwM",
       "type":"free"
+   },
+   {
+      "id" : "18",
+      "courseName": "Data Science Fundamentals with Python and SQL Specialization",
+      "platform" : "Coursera",
+      "courseLink" : "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+      "type" : "free"
    },
 
 
@@ -165,7 +170,16 @@
       "platform" : "udemy",
       "courseLink" : "https://www.udemy.com/course/python-for-every1/",
       "type":"free"
+
+    },
+   {
+      "id" : "6",
+      "courseName": "Python for everybody",
+      "platform" : "Google",
+      "courseLink" : "https://www.py4e.com/lessons",
+      "type" : "free"
    },
+
 {
       "id" : "23",
       "courseName" : "Python",
@@ -174,3 +188,4 @@
       "type":"free"
    },
 ]
+
