@@ -80,7 +80,7 @@ How to CONTRIBUTE  To this repo?
           "type": "free"
        },
 
-    {
+        {
           "id": "7",
           "courseName": " Introduction to JavaScript:First Steps",
           "platform": "Google",
@@ -229,6 +229,14 @@ How to CONTRIBUTE  To this repo?
           "platform" : "YouTube",
           "courseLink" : "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
           "type":"free"
+        },
+        
+        {
+          "id" : "27",
+          "courseName" : "Mastering Data Structures & Algorithms using C and C++",
+          "platform" : "Udemy",
+          "courseLink" : "https://www.udemy.com/course/datastructurescncpp/",
+          "type" : "Paid"
         }
         
      ] 
