@@ -187,5 +187,21 @@
       "courseLink" : "https://www.kaggle.com/learn/python",
       "type":"free"
    },
+   {
+      "id" : "24",
+      "courseName" : "Microsoft Security Operations Analyst",
+      "platform" : "Microsoft",
+      "courseLink" : "https://learn.microsoft.com/en-us/training/courses/sc-200t00",
+      "type":"free"
+   },
+   {
+      "id" : "25",
+      "courseName" : "Supervised Machine Learning: Regression and Classification",
+      "platform" : "coursera",
+      "courseLink" : "https://www.coursera.org/learn/machine-learning",
+      "type" : "free"
+      
+   }  
+      
 ]
 
