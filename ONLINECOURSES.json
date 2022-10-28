@@ -49,28 +49,26 @@
       "type": "free"
    },
    {
-
       "id": "8",
       "courseName": " Python for Data Science",
       "platform": "IBM SkillsBuild",
       "courseLink": "https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+PY0101EN+V3",
       "type": "free"
    },
-    {
+   {
       "id": "9",
       "courseName": " Data Science Methodology",
       "platform": "IBM SkillsBuild",
       "courseLink": "https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+DS0103EN+V3",
       "type": "free"
    },
-     {
+   {
       "id": "10",
       "courseName": " AWS Cloud Practitioner Essentials",
       "platform": "AWS Skill Builder",
       "courseLink": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?src=detail2",
       "type": "free"
    },
-
    {
       "id" : "11",
       "courseName" : "Machine Learning Crash Course with TensorFlow APIs",
@@ -78,9 +76,6 @@
       "courseLink" : "https://developers.google.com/machine-learning/crash-course/?utm_source=&utm_medium=link&utm_campaign=GoogleDigitalGarage&utm_term=&utm_content=MLCC",
       "type":"free"
    },
-   
-   
-   
    {
       "id" : "12"
       "courseName" : "Microsoft Azure data fundamentals",
@@ -130,78 +125,69 @@
       "courseLink" : "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
       "type" : "free"
    },
-
-
    {
-      "id": "18",
+      "id": "19",
       "courseName": " Machine Learning for All",
       "platform": "Coursera",
       "courseLink": "https://www.coursera.org/learn/uol-machine-learning-for-all",
       "type": "free"
    },
    {
-      "id": "19",
+      "id": "20",
       "courseName": " IBM Data Science Professional Certificate",
       "platform": "Coursera",
       "courseLink": "https://www.coursera.org/professional-certificates/ibm-data-science?irclickid=SZT3S3wElxyNUfJ1ajTOLyNMUkDQIDw3F2fwQ80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359419&utm_content=b2c",
       "type": "free"
    },
    {
-      "id" : "20",
-
+      "id" : "21",
       "courseName" : "Java Tutorial for Complete Beginners",
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/java-tutorial/",
       "type":"free"
    },
-{
-      "id" : "21",
+   {
+      "id" : "22",
       "courseName" : "My SQL Basics",
       "platform" : "Great Learning ",
       "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics",
       "type":"free"
    },
-
-
-
- {
-      "id" : "22",
+   {
+      "id" : "23",
       "courseName" : "python basics for data science",
       "platform" : "udemy",
       "courseLink" : "https://www.udemy.com/course/python-for-every1/",
       "type":"free"
-
     },
    {
-      "id" : "6",
+      "id" : "24",
       "courseName": "Python for everybody",
       "platform" : "Google",
       "courseLink" : "https://www.py4e.com/lessons",
       "type" : "free"
    },
-
-{
-      "id" : "23",
+   {
+      "id" : "25",
       "courseName" : "Python",
       "platform" : "Kaggle",
       "courseLink" : "https://www.kaggle.com/learn/python",
       "type":"free"
    },
    {
-      "id" : "24",
+      "id" : "26",
       "courseName" : "Microsoft Security Operations Analyst",
       "platform" : "Microsoft",
       "courseLink" : "https://learn.microsoft.com/en-us/training/courses/sc-200t00",
       "type":"free"
    },
    {
-      "id" : "25",
+      "id" : "27",
       "courseName" : "Supervised Machine Learning: Regression and Classification",
       "platform" : "coursera",
       "courseLink" : "https://www.coursera.org/learn/machine-learning",
       "type" : "free"
       
-   }  
-      
+   }       
 ]
 
