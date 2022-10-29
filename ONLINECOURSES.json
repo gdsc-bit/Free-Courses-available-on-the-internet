@@ -188,13 +188,20 @@
       "courseLink" : "https://www.coursera.org/learn/machine-learning",
       "type" : "free"
       
-   }  
+   } , 
    {
       "id" : "28",
       "courseName" : "Applied Data Science with Python",
       "platform" : "SkillUP",
       "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup",
       "type" : "free"
-   } 
+   } ,
+    {
+      "id": "29",
+      "courseName": " Python 101",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+      "type": "free"
+   },
 ]
 
