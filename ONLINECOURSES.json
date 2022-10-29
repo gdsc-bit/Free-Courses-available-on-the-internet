@@ -203,5 +203,12 @@
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
    },
+    {
+      "id": "30",
+      "courseName": "Blender 3.0 Beginner Donut Tutorial",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
+      "type": "free"
+   },
 ]
 
