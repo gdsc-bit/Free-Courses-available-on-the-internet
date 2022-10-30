@@ -210,5 +210,13 @@
       "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
       "type": "free"
    },
+
+   {
+      "id": "31",
+      "courseName": "HOW TO CUSTOMISE YOUR GITHUB PROFILE",
+      "platform": "youtube",
+      "courseLink": "https://www.eddiejaoude.io/course-github-profile-landing",
+      "type": "free"
+   },
 ]
 
