@@ -218,5 +218,12 @@
       "courseLink": "https://www.eddiejaoude.io/course-github-profile-landing",
       "type": "free"
    },
+   {
+      "id" : "32",
+      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
+      "platform:" : "youtube",
+      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+      "type" : "free"
+   }
 ]
 
