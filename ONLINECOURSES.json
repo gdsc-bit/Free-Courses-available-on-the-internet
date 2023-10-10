@@ -28,6 +28,13 @@
       "type": "free"
    },
    {
+         "id" : "5",
+         "courseName" : "Amazon Web Services (AWS) - Zero to Hero",
+         "platform" : "Udemy",
+         "courseLink" : "https://www.udemy.com/course/amazon-web-services-aws-v/",
+         "type" : "free"
+   },
+   {
       "id": "8",
       "courseName": "Python for everybody",
       "platform": "Google",
