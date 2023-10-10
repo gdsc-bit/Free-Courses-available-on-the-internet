@@ -224,6 +224,14 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   }
+   },
+
+      {
+         "id" : "7",
+         "courseName" : "Amazon Web Services (AWS) - Zero to Hero",
+         "platform" : "Udemy",
+         "courseLink" : "https://www.udemy.com/course/amazon-web-services-aws-v/",
+         "type" : "free"
+      }
 ]
 
