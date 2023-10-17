@@ -231,6 +231,20 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   } ,
+   {
+      "id" : "33",
+      "courseName" : "Power Bi",
+      "platform:" : "SkillUp",
+      "courseLink" :"https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
+      "type" : "free"
+   },
+   {
+      "id" : "34",
+      "courseName" : "Data Science with R",
+      "platform:" : "SkillUp",
+      "courseLink" :"https://www.simplilearn.com/learn-data-science-with-r-basics-skillup",
+      "type" : "free"
    }
 ]
 
