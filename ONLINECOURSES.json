@@ -232,5 +232,12 @@
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    }
+   {
+      "id" : "33",
+      "courseName" : "Algorithms by Abdul Bari",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "type" : "free"
+   }
 ]
 
