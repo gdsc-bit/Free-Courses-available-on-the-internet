@@ -231,6 +231,12 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   }
+   },
+   {
+      "id" : "33",
+      "courseName" : "learn python 3",
+      "platform:" : "codecadamy",
+      "courseLink" :"https://www.codecademy.com/learn/learn-python-3",
+      "type" : "free"
+   },
 ]
-
