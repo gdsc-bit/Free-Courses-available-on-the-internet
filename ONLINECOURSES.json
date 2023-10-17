@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+      "id" : "33",
+      "courseName" :"Ace the AP Computer Science Exam for High Schoolers",
+      "platform:" : "Educative",
+      "courseLink" :"https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
+      "type" : "free"
    }
 ]
 
