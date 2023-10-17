@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+      "id": "33",
+      "courseName": "Step into Robotics Automation Process",
+      "platform": "GUVI",
+      "courseLink": "https://www.guvi.in/rpa.html",
+      "type": "free"
    }
 ]
 
