@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+     "id" : "33",
+      "courseName" : "udemy / course you can purchase",
+      "platform:" : "Brave",
+      "courseLink" :"https://www.udemy.com/",
+      "type" : "free"
    }
 ]
 
