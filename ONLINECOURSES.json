@@ -261,7 +261,13 @@
       "courseLink" :"https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
       "type" : "notfree"
    },
-
+ {
+      "id" : "37",
+      "courseName" :"Javascript for Beginners", 
+     " platform: ": "udemy",
+      "courseLink" :"https://www.udemy.com/course/beginning-javascript/",
+      "type" : "notfree"
+   },
    
 ]
 
