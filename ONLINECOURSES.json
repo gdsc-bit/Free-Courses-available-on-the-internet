@@ -1,8 +1,8 @@
 [
    {
       "id": "1",
-      "courseName": "Free Flutter Course by Vandad Nahavandipoor",
-      "platform": "Youtube",
+      "courseName": "HarvardX:Introduction to data science with Python",
+      "platform": "edX",
       "courseLink": "https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
       "type": "free"
    },
