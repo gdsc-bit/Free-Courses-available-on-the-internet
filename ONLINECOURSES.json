@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+      "id" : "33",
+      "courseName" : "Easiest Way to Hack Someone | Social Engineering With BEEF",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/watch?v=J2J7uFZnG5E",
+      "type" : "free"
    }
 ]
 
