@@ -247,7 +247,13 @@
       "courseLink" :"https://www.udemy.com/course/machinelearning/",
       "type" : "notfree"
    },
-
+{
+      "id" : "35",
+      "courseName" :"Automate the Boring Stuff with Python Programming", 
+     " platform: ": "udemy",
+      "courseLink" :"https://www.udemy.com/course/automate/",
+      "type" : "notfree"
+   },
 
    
 ]
