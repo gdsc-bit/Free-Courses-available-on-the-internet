@@ -254,6 +254,13 @@
       "courseLink" :"https://www.udemy.com/course/automate/",
       "type" : "notfree"
    },
+   {
+      "id" : "36",
+      "courseName" :"Python for Data Science and Machine Learning Bootcamp", 
+     " platform: ": "udemy",
+      "courseLink" :"https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "type" : "notfree"
+   },
 
    
 ]
