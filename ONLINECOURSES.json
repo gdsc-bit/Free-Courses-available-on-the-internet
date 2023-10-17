@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+     "id" : "33",
+     "courseName": "IBM: Analysing data with Excel",
+     "platform" : "Edx",
+     "courselink" : "https://www.edx.org/learn/excel/ibm-analyzing-data-with-excel?index=product&queryID=7b8ba965d7bcef16e3a541b7566abbb1&position=8&results_level=second-level-results&term=&objectID=course-256bcc7d-5d2f-4053-b09a-22b48e058798&campaign=Analyzing+Data+with+Excel&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+     "type" : "free"
    }
-]
+    ]
 
