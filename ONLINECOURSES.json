@@ -231,6 +231,48 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   }
+   },
+   {
+       "id" :  "33",
+       "course_name" : "MongoDB with C#",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp",
+       "type" : "free"
+   },
+   {
+       "id" :  "34",
+       "course_name" : "MongoDB with JAVA",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-java-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "35",
+       "course_name" : "MongoDB with Node.js",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "36",
+       "course_name" : "MongoDB with PHP",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-php-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "37",
+       "course_name" : "MongoDB with Python",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "38",
+       "course_name" : "MongoDB C++ Driver",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/courses/mongodb-cpp-driver",
+       "type" : "free"
+     }
 ]
 
