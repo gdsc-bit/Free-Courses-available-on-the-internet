@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   }
+   },
+   {
+      "id" : "33",
+      "courseName" : "c programming basics",
+      "platform:" : "simplilearn",
+      "courseLink" :"https://www.simplilearn.com/free-c-course-skillup",
+      "type" : "free"
+   }, 
 ]
 
