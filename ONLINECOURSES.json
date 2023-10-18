@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+    {
+      "id" : "33",
+      "courseName" : "Financial Markets",
+      "platform:" : "coursera",
+      "courseLink" :"https://www.coursera.org/learn/financial-markets-global",
+      "type" : "free"
    }
 ]
 
