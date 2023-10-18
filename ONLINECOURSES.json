@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   }
+   },
+   {
+     "id" : "33",
+     "courseName": "TUMx: Six Sigma: Analyze, Improve, Control",
+     "platform" : "edx",
+     "courselink" : "https://www.edx.org/learn/six-sigma/technische-universitat-munchen-six-sigma-analyze-improve-contro",
+     "type" : "free",
+   }     
 ]
 
