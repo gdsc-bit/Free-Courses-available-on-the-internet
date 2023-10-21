@@ -249,5 +249,13 @@
       "courseLink": "https://www.youtube.com/watch?v=sesacY7Xz3c",
       "type": "free"
    },
+
+   {
+      "id" : "35",
+      "courseName" : "What is Data Science?",
+      "platform" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=RBSUwFGa6Fk",
+      "type":"free"
+   },
 ]
 
