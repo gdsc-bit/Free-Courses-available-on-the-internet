@@ -233,5 +233,13 @@
       "courseLink": "https://www.youtube.com/watch?v=7iHJRc0RXP0",
       "type": "free"
    },
+   
+   {
+      "id": "33",
+      "courseName": "Internet of things",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=p_R5ZVWMhzM",
+      "type": "free"
+   },
 ]
 
