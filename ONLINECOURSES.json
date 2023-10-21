@@ -241,5 +241,13 @@
       "courseLink": "https://www.youtube.com/watch?v=p_R5ZVWMhzM",
       "type": "free"
    },
+
+   {
+      "id": "34",
+      "courseName": "Cybersecurity Architecture: Networks",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=sesacY7Xz3c",
+      "type": "free"
+   },
 ]
 
