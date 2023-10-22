@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+      "id" : "33",
+      "courseName" : "Back End Development and APIs",
+      "platform:" : "freecodecamp",
+      "courseLink" :"https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+      "type" : "free"
    }
 ]
 
