@@ -237,6 +237,14 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Udemy",
           "courseLink" : "https://www.udemy.com/course/datastructurescncpp/",
           "type" : "Paid"
+        },
+        {
+          "id" : "28",
+          "courseName" :"Learn to Code with Python 3",
+          "platform" : "Udemy",
+          "courseLink" :"https://www.udemy.com/course/python3-for-beginners/",
+          "type" : "Paid"
         }
+    
         
      ] 
