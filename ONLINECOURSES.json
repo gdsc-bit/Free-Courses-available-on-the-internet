@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+      "id" : "33",
+      "courseName" : "Java tutorial",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0",
+      "type" : "free"
    }
 ]
 
