@@ -233,10 +233,10 @@
    },
    {
       "id" : "33",
-      "courseName" : "Power Bi",
-      "platform:" : "SkillUp",
-      "courseLink" :"https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
-     "type" : "free"
+      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
+      "platform:" : "youtube",
+      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+      "type" : "free"
    },
    {
       "id" : "34",
@@ -275,9 +275,44 @@
    },
    {
      "id" : "39",
-      "courseName" : "learn python 3",
-      "platform:" : "codecadamy",
-      "courseLink" :"https://www.codecademy.com/learn/learn-python-3",
-      "type" : "free"
+     "courseName" : "learn python 3",
+     "platform:" : "codecadamy",
+     "courseLink" :"https://www.codecademy.com/learn/learn-python-3",
+     "type" : "free"
+   },
+   {
+     "id" : "40",
+     "courseName" : "Power Bi",
+     "platform:" : "SkillUp",
+     "courseLink" :"https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
+     "type" : "free"
+   },
+   {
+     "id" : "41",
+     "courseName" :"Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]", 
+     "platform: ": "udemy",
+     "courseLink" :"https://www.udemy.com/course/machinelearning/",
+     "type" : "paid"
+   },
+   {
+     "id" : "42",
+     "courseName" :"Automate the Boring Stuff with Python Programming", 
+     "platform: ": "udemy",
+     "courseLink" :"https://www.udemy.com/course/automate/",
+     "type" : "paid"
+   },
+   {
+     "id" : "43",
+     "courseName" :"Python for Data Science and Machine Learning Bootcamp", 
+     " platform: ": "udemy",
+     "courseLink" :"https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+     "type" : "paid"
+   },
+   {
+      "id" : "44",
+      "courseName" :"Javascript for Beginners", 
+     " platform: ": "udemy",
+      "courseLink" :"https://www.udemy.com/course/beginning-javascript/",
+      "type" : "paid"
    }
 ]
