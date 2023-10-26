@@ -349,5 +349,12 @@
       "platform:" : "Learn Digital",
       "courseLink" :"https://learndigital.co/data-science-courses-in-bangalore/",
       "type" : "free"
+   },
+   {
+      "id" : "50",
+      "courseName" : "Python for Beginners (Full Course) | #100DaysOfCode",
+      "platform:" : "youtube",
+      "courseLink" : "https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=XFFUqFczHIjR65ubhttps://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=XFFUqFczHIjR65ub",
+      "type" : "free"   
    }
 ]
