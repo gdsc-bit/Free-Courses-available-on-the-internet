@@ -231,8 +231,6 @@
       "courseLink" :"https://www.w3schools.com/sql/default.asp",
       "type" : "free"
    },
-   },
-
    { 
       "id" : "33",
       "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
@@ -343,6 +341,13 @@
       "courseName": "Step into Robotics Automation Process",
       "platform": "GUVI",
       "courseLink": "https://www.guvi.in/rpa.html",
-     "type" : "free"
+      "type" : "free"
+   },
+   {
+      "id" : "49",
+      "courseName" : "Data Science Courses In Bangalore",
+      "platform:" : "Learn Digital",
+      "courseLink" :"https://learndigital.co/data-science-courses-in-bangalore/",
+      "type" : "free"
    }
 ]
