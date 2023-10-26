@@ -321,5 +321,12 @@
      "platform:" : "Educative",
      "courseLink" : "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
      "type" : "free"
+   },
+   {
+     "id" : "46",
+     "courseName" : "C Programming 2021: Master The Basics!",
+     "platform:" : "udemy",
+     "courseLink" : "https://www.udemy.com/course/c-programming-2019-master-the-basics/",
+     "type" : "free"
    }
 ]
