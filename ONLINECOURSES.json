@@ -238,6 +238,20 @@
       "platform:" : "youtube",
       "courseLink" :"https://www.youtube.com/watch?v=J2J7uFZnG5E",
       "type" : "free"
+   },
+   {
+      "id" : "34",
+      "courseName" : "C++ Programming Course - Beginner to Advanced",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/watch?v=8jLOx1hD3_o",
+      "type" : "free"
+   },
+   {
+     "id" : "35",
+     "courseName" : "Python Tutorials Zero to Hero",
+     "platform" : "youtube",
+     "courseLink" : "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&pp=iAQB",
+     "type" : "free"
    }
 ]
 
