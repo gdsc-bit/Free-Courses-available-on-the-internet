@@ -226,11 +226,13 @@
    },
    {
       "id" : "32",
-      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
-      "platform:" : "youtube",
-      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+      "courseName" : "SQL Tutorial",
+      "platform:" : "w3schools",
+      "courseLink" :"https://www.w3schools.com/sql/default.asp",
       "type" : "free"
    },
+   },
+
    { 
       "id" : "33",
       "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
