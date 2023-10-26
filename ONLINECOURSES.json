@@ -363,5 +363,12 @@
      "platform" : "edx",
      "courselink" : "https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics?index=product&objectID=course-f11c9289-596e-4c46-a9cb-318052f259ae&webview=false&campaign=AI+for+Everyone%3A+Master+the+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
      "type" : "free",
+   },
+   {
+      "id" : "52",
+      "courseName" : "Introduction to Cybersecurity",
+      "platform:" : "codecademy",
+      "courseLink" : "https://www.codecademy.com/learn/introduction-to-cybersecurity",
+      "type" : "free"
    }
 ]
