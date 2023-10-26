@@ -245,6 +245,4 @@ How to CONTRIBUTE  To this repo?
           "courseLink" :"https://www.udemy.com/course/python3-for-beginners/",
           "type" : "Paid"
         }
-    
-        
-     ] 
+        ] 
