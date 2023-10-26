@@ -231,6 +231,13 @@
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
+   },
+   {
+         "id" : "33",
+         "courseName" : "Python Tutorials Zero to Hero",
+         "platform" : "youtube",
+         "courseLink" : "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&pp=iAQB",
+         "type" : "free"
    }
 ]
 
