@@ -249,14 +249,14 @@
       "id" : "35",
       "courseName" : "Data Science with R",
       "platform:" : "SkillUp",
-      "courseLink" :"https://www.simplilearn.com/learn-data-science-with-r-basics-skillup",
+      "courseLink" : "https://www.simplilearn.com/learn-data-science-with-r-basics-skillup",
       "type" : "free"
    }
    {
       "id" : "36",
       "courseName" : "C++ Programming Course - Beginner to Advanced",
       "platform:" : "youtube",
-      "courseLink" :"https://www.youtube.com/watch?v=8jLOx1hD3_o",
+      "courseLink" : "https://www.youtube.com/watch?v=8jLOx1hD3_o",
       "type" : "free"
    },
    {
@@ -277,42 +277,49 @@
      "id" : "39",
      "courseName" : "learn python 3",
      "platform:" : "codecadamy",
-     "courseLink" :"https://www.codecademy.com/learn/learn-python-3",
+     "courseLink" : "https://www.codecademy.com/learn/learn-python-3",
      "type" : "free"
    },
    {
      "id" : "40",
      "courseName" : "Power Bi",
      "platform:" : "SkillUp",
-     "courseLink" :"https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
+     "courseLink" : "https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
      "type" : "free"
    },
    {
      "id" : "41",
      "courseName" :"Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]", 
      "platform: ": "udemy",
-     "courseLink" :"https://www.udemy.com/course/machinelearning/",
+     "courseLink" : "https://www.udemy.com/course/machinelearning/",
      "type" : "paid"
    },
    {
      "id" : "42",
-     "courseName" :"Automate the Boring Stuff with Python Programming", 
+     "courseName" : "Automate the Boring Stuff with Python Programming", 
      "platform: ": "udemy",
-     "courseLink" :"https://www.udemy.com/course/automate/",
+     "courseLink" : "https://www.udemy.com/course/automate/",
      "type" : "paid"
    },
    {
      "id" : "43",
-     "courseName" :"Python for Data Science and Machine Learning Bootcamp", 
+     "courseName" : "Python for Data Science and Machine Learning Bootcamp", 
      " platform: ": "udemy",
-     "courseLink" :"https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+     "courseLink" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
      "type" : "paid"
    },
    {
       "id" : "44",
-      "courseName" :"Javascript for Beginners", 
+      "courseName" : "Javascript for Beginners", 
      " platform: ": "udemy",
-      "courseLink" :"https://www.udemy.com/course/beginning-javascript/",
+      "courseLink" : "https://www.udemy.com/course/beginning-javascript/",
       "type" : "paid"
+   },
+   {
+     "id" : "45",
+     "courseName" : "Ace the AP Computer Science Exam for High Schoolers",
+     "platform:" : "Educative",
+     "courseLink" : "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
+     "type" : "free"
    }
 ]
