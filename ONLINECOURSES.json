@@ -238,6 +238,13 @@
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    },
+   { 
+      "id" : "33",
+      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
+      "platform:" : "youtube",
+      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+      "type" : "free"
+   },
    {
       "id" : "34",
       "courseName" : "Easiest Way to Hack Someone | Social Engineering With BEEF",
@@ -251,7 +258,7 @@
       "platform:" : "SkillUp",
       "courseLink" : "https://www.simplilearn.com/learn-data-science-with-r-basics-skillup",
       "type" : "free"
-   }
+   },
    {
       "id" : "36",
       "courseName" : "C++ Programming Course - Beginner to Advanced",
@@ -393,10 +400,16 @@
       "type" : "free"
    },
    {
-      "id" : "53",
       "courseName" : "C Language Tutorial for Beginners (With Notes) ",
       "platform:" : "youtube",
       "courseLink" : "https://www.youtube.com/watch?v=_MF8L7ZxwRE",
+      "type" : "free"
+   },
+   {
+      "id" : "57",
+      "courseName" : "Java tutorial",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0",
       "type" : "free"
    }
 ]
