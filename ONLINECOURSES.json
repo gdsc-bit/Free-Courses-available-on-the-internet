@@ -202,13 +202,13 @@
       "platform" : "SkillUP",
       "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup",
       "type" : "free"
-   },
-   {
-       "id": "29",
-       "courseName": " Python 101",
-       "platform": "youtube",
-       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
-       "type": "free"
+    },
+    {
+      "id": "29",
+      "courseName": " Python 101",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+      "type": "free"
    },
    {
        "id": "30",
@@ -229,13 +229,6 @@
       "courseName" : "SQL Tutorial",
       "platform:" : "w3schools",
       "courseLink" :"https://www.w3schools.com/sql/default.asp",
-      "type" : "free"
-   },
-   { 
-      "id" : "33",
-      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
-      "platform:" : "youtube",
-      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    },
    { 
@@ -419,5 +412,33 @@
       "platform:" : "freecodecamp",
       "courseLink" :"https://www.freecodecamp.org/learn/back-end-development-and-apis/",
       "type" : "free"
+   },
+   {
+      "id": "59",
+      "courseName": "Engineering Mathematics 1 Intro Video",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=7iHJRc0RXP0",
+      "type": "free"
+   },
+   {
+      "id": "60",
+      "courseName": "Internet of things",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=p_R5ZVWMhzM",
+      "type": "free"
+   },
+   {
+      "id": "61",
+      "courseName": "Cybersecurity Architecture: Networks",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=sesacY7Xz3c",
+      "type": "free"
+   },
+   {
+      "id" : "62",
+      "courseName" : "What is Data Science?",
+      "platform" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=RBSUwFGa6Fk",
+      "type":"free"
    }
 ]
