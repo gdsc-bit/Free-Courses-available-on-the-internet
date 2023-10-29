@@ -461,5 +461,12 @@
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
+   },
+   {
+      "id": "67",
+      "courseName": "Learn SQL: Multiple Tables",
+      "platform": "Codeacademy",
+      "courseLink": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+      "type": "free"
    }
 ]
