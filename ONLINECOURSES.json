@@ -524,5 +524,12 @@
       "platform:" : "coursera",
       "courseLink" :"https://www.coursera.org/learn/financial-markets-global",
       "type" : "free"
+   },
+   {
+      "id" : "76",
+      "courseName" : "c programming basics",
+      "platform:" : "simplilearn",
+      "courseLink" :"https://www.simplilearn.com/free-c-course-skillup",
+      "type" : "free"
    }
 ]
