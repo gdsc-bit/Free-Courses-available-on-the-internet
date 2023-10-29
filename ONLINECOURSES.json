@@ -35,13 +35,6 @@
          "type" : "free"
    },
    {
-      "id": "8",
-      "courseName": "Python for everybody",
-      "platform": "Google",
-      "courseLink": "https://www.py4e.com/lessons",
-      "type": "free"
-   },
-   {
       "id": "6",
       "courseName": " Python for Beginners",
       "platform": "youtube",
@@ -166,7 +159,7 @@
       "platform" : "udemy",
       "courseLink" : "https://www.udemy.com/course/python-for-every1/",
       "type":"free"
-    },
+   },
    {
       "id" : "24",
       "courseName": "Python for everybody",
@@ -195,14 +188,14 @@
       "courseLink" : "https://www.coursera.org/learn/machine-learning",
       "type" : "free"
       
-   } , 
+   }, 
    {
       "id" : "28",
       "courseName" : "Applied Data Science with Python",
       "platform" : "SkillUP",
       "courseLink" : "https://www.simplilearn.com/getting-started-data-science-with-python-skillup",
       "type" : "free"
-   } ,
+    },
     {
       "id": "29",
       "courseName": " Python 101",
@@ -210,14 +203,13 @@
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
    },
-    {
-      "id": "30",
-      "courseName": "Blender 3.0 Beginner Donut Tutorial",
-      "platform": "youtube",
-      "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
-      "type": "free"
+   {
+       "id": "30",
+       "courseName": "Blender 3.0 Beginner Donut Tutorial",
+       "platform": "youtube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
+       "type": "free"
    },
-
    {
       "id": "31",
       "courseName": "HOW TO CUSTOMISE YOUR GITHUB PROFILE",
@@ -225,13 +217,14 @@
       "courseLink": "https://www.eddiejaoude.io/course-github-profile-landing",
       "type": "free"
    },
-   {
+   { 
       "id" : "32",
       "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
       "platform:" : "youtube",
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
-   },{ 
+   },
+  { 
       "id" : "33",
       "courseName" : "Why Learn C Programming Language? : C Tutorial In Hindi #1",
       "platform:" : "youtube",
@@ -547,4 +540,3 @@
      "type" : "free",
    }     
 ]
-
