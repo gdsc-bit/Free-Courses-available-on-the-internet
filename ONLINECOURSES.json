@@ -35,13 +35,6 @@
          "type" : "free"
    },
    {
-      "id": "8",
-      "courseName": "Python for everybody",
-      "platform": "Google",
-      "courseLink": "https://www.py4e.com/lessons",
-      "type": "free"
-   },
-   {
       "id": "6",
       "courseName": " Python for Beginners",
       "platform": "youtube",
@@ -447,5 +440,26 @@
       "platform:" : "google",
       "courseLink" :"https://devdocs.io/angularjs~1.8/",
       "type" : "free"
+   },
+   {
+      "id" : "64",
+      "courseName" : "Automate the Boring Stuff with Python Programming",
+      "platform:" : "Google",
+      "courseLink" :"https://www.udemy.com/course/automate/",
+      "type" : "free"
+   },
+   {
+      "id" : "65",
+      "courseName" : "SQL Tutorial",
+      "platform:" : "w3schools",
+      "courseLink" :"https://www.w3schools.com/sql/default.asp",
+      "type" : "free"
+   }, 
+   {
+      "id": "66",
+      "courseName": "Python for everybody",
+      "platform": "Google",
+      "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
    }
 ]
