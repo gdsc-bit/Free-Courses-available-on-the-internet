@@ -217,18 +217,18 @@
       "courseLink": "https://www.eddiejaoude.io/course-github-profile-landing",
       "type": "free"
    },
-   {
+   { 
       "id" : "32",
-      "courseName" : "SQL Tutorial",
-      "platform:" : "w3schools",
-      "courseLink" :"https://www.w3schools.com/sql/default.asp",
+      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
+      "platform:" : "youtube",
+      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    },
    { 
       "id" : "33",
-      "courseName" : "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
+      "courseName" : "Why Learn C Programming Language? : C Tutorial In Hindi #1",
       "platform:" : "youtube",
-      "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+      "courseLink" :"https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
       "type" : "free"
    },
    {
