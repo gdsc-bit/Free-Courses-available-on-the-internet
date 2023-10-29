@@ -391,5 +391,12 @@
       "platform:" : "youtube",
       "courseLink" : "https://www.youtube.com/watch?v=UmnCZ7-9yDY",
       "type" : "free"
+   },
+   {
+      "id" : "53",
+      "courseName" : "C Language Tutorial for Beginners (With Notes) ",
+      "platform:" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=_MF8L7ZxwRE",
+      "type" : "free"
    }
 ]
