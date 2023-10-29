@@ -552,5 +552,19 @@
       "platform": "youtube",
       "courseLink": "https://youtu.be/pO6soMZbZKA?feature=shared",
       "type": "free"
+   },
+   {
+      "id" : "80",
+      "courseName" : "Algorithms by Abdul Bari",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "type" : "free"
+   },
+   {
+      "id": "81",
+      "courseName": "Python for everybody",
+      "platform": "Google",
+      "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
    }
 ]
