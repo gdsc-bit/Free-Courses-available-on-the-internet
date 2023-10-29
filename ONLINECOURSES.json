@@ -462,4 +462,11 @@
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
    }
+    {
+      "id" : "67",
+      "courseName" : "C Language Tutorial for Beginners (with Notes & Practice Questions)",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/watch?v=irqbmMNs2Bo",
+      "type" : "free"
+    }
 ]
