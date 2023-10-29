@@ -232,11 +232,249 @@
       "courseLink" :"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
       "type" : "free"
    },
-]{
+   {
+      "id" : "32",
+      "courseName" : "SQL Tutorial",
+      "platform:" : "w3schools",
+      "courseLink" :"https://www.w3schools.com/sql/default.asp",
+      "type" : "free"
+   },
+   { 
       "id" : "33",
       "courseName" : "Why Learn C Programming Language? : C Tutorial In Hindi #1",
       "platform:" : "youtube",
       "courseLink" :"https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
       "type" : "free"
+   },
+   {
+      "id" : "34",
+      "courseName" : "Easiest Way to Hack Someone | Social Engineering With BEEF",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/watch?v=J2J7uFZnG5E",
+      "type" : "free"
+   },
+   {
+      "id" : "35",
+      "courseName" : "Data Science with R",
+      "platform:" : "SkillUp",
+      "courseLink" : "https://www.simplilearn.com/learn-data-science-with-r-basics-skillup",
+      "type" : "free"
+   },
+   {
+      "id" : "36",
+      "courseName" : "C++ Programming Course - Beginner to Advanced",
+      "platform:" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+      "type" : "free"
+   },
+   {
+      "id" : "37",
+      "courseName" : "Python Tutorials Zero to Hero",
+      "platform" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&pp=iAQB",
+      "type" : "free"
+   },
+   {
+      "id" : "38",
+      "courseName": "IBM: Analysing data with Excel",
+      "platform" : "Edx",
+      "courselink" : "https://www.edx.org/learn/excel/ibm-analyzing-data-with-excel?index=product&queryID=7b8ba965d7bcef16e3a541b7566abbb1&position=8&results_level=second-level-results&term=&objectID=course-256bcc7d-5d2f-4053-b09a-22b48e058798&campaign=Analyzing+Data+with+Excel&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "type" : "free"
+   },
+   {
+      "id" : "39",
+      "courseName" : "learn python 3",
+      "platform:" : "codecadamy",
+      "courseLink" : "https://www.codecademy.com/learn/learn-python-3",
+      "type" : "free"
+   },
+   {
+      "id" : "40",
+      "courseName" : "Power Bi",
+      "platform:" : "SkillUp",
+      "courseLink" : "https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup",
+      "type" : "free"
+   },
+   {
+      "id" : "41",
+      "courseName" :"Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]", 
+      "platform: ": "udemy",
+      "courseLink" : "https://www.udemy.com/course/machinelearning/",
+      "type" : "paid"
+   },
+   {
+      "id" : "42",
+      "courseName" : "Automate the Boring Stuff with Python Programming", 
+      "platform: ": "udemy",
+      "courseLink" : "https://www.udemy.com/course/automate/",
+      "type" : "paid"
+   },
+   {
+      "id" : "43",
+      "courseName" : "Python for Data Science and Machine Learning Bootcamp", 
+      "platform: ": "udemy",
+      "courseLink" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "type" : "paid"
+   },
+   {
+      "id" : "44",
+      "courseName" : "Javascript for Beginners", 
+      "platform: ": "udemy",
+      "courseLink" : "https://www.udemy.com/course/beginning-javascript/",
+      "type" : "paid"
+   },
+   {
+      "id" : "45",
+      "courseName" : "Ace the AP Computer Science Exam for High Schoolers",
+      "platform:" : "Educative",
+      "courseLink" : "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
+      "type" : "free"
+   },
+   {
+      "id" : "46",
+      "courseName" : "C Programming 2021: Master The Basics!",
+      "platform:" : "udemy",
+      "courseLink" : "https://www.udemy.com/course/c-programming-2019-master-the-basics/",
+      "type" : "free"
+   },
+   {
+      "id": "47",
+      "courseName": "HTML & CSS Full Course - Beginner to Pro",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "type": "free"
+   },
+   {
+      "id": "48",
+      "courseName": "Step into Robotics Automation Process",
+      "platform": "GUVI",
+      "courseLink": "https://www.guvi.in/rpa.html",
+      "type" : "free"
+   },
+   {
+      "id" : "49",
+      "courseName" : "Data Science Courses In Bangalore",
+      "platform:" : "Learn Digital",
+      "courseLink" :"https://learndigital.co/data-science-courses-in-bangalore/",
+      "type" : "free"
+   },
+   {
+      "id" : "50",
+      "courseName" : "Python for Beginners (Full Course) | #100DaysOfCode",
+      "platform:" : "youtube",
+      "courseLink" : "https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=XFFUqFczHIjR65ubhttps://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=XFFUqFczHIjR65ub",
+      "type" : "free"   
+   },
+   {
+     "id" : "51",
+     "courseName": "IBM: AI for Everyone: Master the Basics",
+     "platform" : "edx",
+     "courselink" : "https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics?index=product&objectID=course-f11c9289-596e-4c46-a9cb-318052f259ae&webview=false&campaign=AI+for+Everyone%3A+Master+the+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
+     "type" : "free",
+   },
+   {
+      "id" : "52",
+      "courseName" : "Introduction to Cybersecurity",
+      "platform:" : "codecademy",
+      "courseLink" : "https://www.codecademy.com/learn/introduction-to-cybersecurity",
+      "type" : "free"
+   },
+   { 
+      "id" : "53",
+      "courseName": "Easiest Way to Hack Someone | Social Engineering With BEEF",
+      "platform" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=J2J7uFZnG5E",
+      "type" : "free"
+   },
+   {
+      "id" : "54",
+      "courseName" : "Java Tutorial for Complete Beginners",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/java-tutorial/",
+      "type":"free"
+   },
+   {
+      "id" : "55",
+      "courseName" : "Java Tutorial for Beginners | Learn Java in 2 Hours",
+      "platform:" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+      "type" : "free"
+   },
+   {
+      "id" : "56",
+      "courseName" : "C Language Tutorial for Beginners (With Notes) ",
+      "platform:" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=_MF8L7ZxwRE",
+      "type" : "free"
+   },
+   {
+      "id" : "57",
+      "courseName" : "Java tutorial",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0",
+      "type" : "free"
+   },
+   {
+      "id" : "58",
+      "courseName" : "Back End Development and APIs",
+      "platform:" : "freecodecamp",
+      "courseLink" :"https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+      "type" : "free"
+   },
+   {
+      "id": "59",
+      "courseName": "Engineering Mathematics 1 Intro Video",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=7iHJRc0RXP0",
+      "type": "free"
+   },
+   {
+      "id": "60",
+      "courseName": "Internet of things",
+      "platform": "youtube",
+      "courseLink": "https://www.youtube.com/watch?v=p_R5ZVWMhzM",
+      "type": "free"
+   },
+   {
+      "id": "61",
+      "courseName": "Cybersecurity Architecture: Networks",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=sesacY7Xz3c",
+      "type": "free"
+   },
+   {
+      "id" : "62",
+      "courseName" : "What is Data Science?",
+      "platform" : "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=RBSUwFGa6Fk",
+      "type":"free"
+   },
+   {
+      "id" : "63",
+      "courseName" : "Angular.js",
+      "platform:" : "google",
+      "courseLink" :"https://devdocs.io/angularjs~1.8/",
+      "type" : "free"
+   },
+   {
+      "id" : "64",
+      "courseName" : "Automate the Boring Stuff with Python Programming",
+      "platform:" : "Google",
+      "courseLink" :"https://www.udemy.com/course/automate/",
+      "type" : "free"
+   },
+   {
+      "id" : "65",
+      "courseName" : "SQL Tutorial",
+      "platform:" : "w3schools",
+      "courseLink" :"https://www.w3schools.com/sql/default.asp",
+      "type" : "free"
+   }, 
+   {
+      "id": "66",
+      "courseName": "Python for everybody",
+      "platform": "Google",
+      "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
    }
-
+]
