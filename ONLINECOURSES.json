@@ -611,5 +611,11 @@
       "platform": "Google",
       "courseLink": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
       "type": "free"
+   },{
+      "id": "89",
+      "courseName": "Technical Writing course",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=KbDLPz0QvvU&list=PLgQjocc9rdQmaNWBRKi_4TIk-hgeMtKyS",
+      "type": "free"
    }
 ]
