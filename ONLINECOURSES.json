@@ -545,5 +545,12 @@
      "platform" : "edx",
      "courselink" : "https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling",
      "type" : "free",
-   } 
+   },
+   {
+      "id": "79",
+      "courseName": "HOW TO CUSTOMISE YOUR LINKEDIN PROFILE",
+      "platform": "youtube",
+      "courseLink": "https://youtu.be/pO6soMZbZKA?feature=shared",
+      "type": "free"
+   }
 ]
