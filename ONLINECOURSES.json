@@ -378,4 +378,11 @@
       "courseLink" : "https://www.youtube.com/watch?v=J2J7uFZnG5E",
       "type" : "free"
    }
+   {
+      "id" : "54",
+      "courseName" : "Java Tutorial for Complete Beginners",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/java-tutorial/",
+      "type":"free"
+   }
 ]
