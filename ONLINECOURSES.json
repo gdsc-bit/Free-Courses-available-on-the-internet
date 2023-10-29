@@ -461,6 +461,20 @@
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
+   },
+   {
+      "id" : "67",
+      "courseName" : "C Language Tutorial for Beginners (with Notes & Practice Questions)",
+      "platform:" : "youtube",
+      "courseLink" :"https://www.youtube.com/watch?v=irqbmMNs2Bo",
+      "type" : "free"
+    },
+   {
+      "id": "68",
+      "courseName": "Introduction to Cyber Security",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
+      "type": "free"
    }
     {
       "id" : "67",
