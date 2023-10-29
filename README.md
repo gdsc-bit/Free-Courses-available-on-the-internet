@@ -237,6 +237,13 @@ How to CONTRIBUTE  To this repo?
           "platform" : "Udemy",
           "courseLink" : "https://www.udemy.com/course/datastructurescncpp/",
           "type" : "Paid"
-        }
-        
+        },
+        {
+          "id" : "28",
+          "courseName" : "Master in Jason, Jason Crash course",
+          "platform" : "Udemy",
+          "course link" : "
+        https://www.udemy.com/course/master-in-json/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_533220805574_._kw__._de_m_._dm__._pl__._ti_dsa-406594358574_._li_9062013_._pd__._&matchtype=&gclid=Cj0KCQjw4bipBhCyARIsAFsieCx3pIYNRPwwn1k764nmtYrrc0v2Ddetnr-ehilExLIcaOTEdoSIc_MaAu7yEALw_wcB",
+        "type" : "free"
+      }
      ] 
