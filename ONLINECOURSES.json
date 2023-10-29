@@ -77,7 +77,7 @@
       "type":"free"
    },
    {
-      "id" : "12"
+      "id" : "12",
       "courseName" : "Microsoft Azure data fundamentals",
       "platform" : "Microsoft learn",
       "courseLink" : "https://learn.microsoft.com/en-in/training/paths/azure-data-fundamentals-explore-core-data-concepts/",
@@ -355,7 +355,7 @@
      "courseName": "IBM: AI for Everyone: Master the Basics",
      "platform" : "edx",
      "courselink" : "https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics?index=product&objectID=course-f11c9289-596e-4c46-a9cb-318052f259ae&webview=false&campaign=AI+for+Everyone%3A+Master+the+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
-     "type" : "free",
+     "type" : "free"
    },
    {
       "id" : "52",
@@ -537,14 +537,14 @@
      "courseName": "TUMx: Six Sigma: Analyze, Improve, Control",
      "platform" : "edx",
      "courselink" : "https://www.edx.org/learn/six-sigma/technische-universitat-munchen-six-sigma-analyze-improve-contro",
-     "type" : "free",
+     "type" : "free"
    },
    {
      "id" : "78", 
      "courseName": "HarvardX: Data Science: Wrangling",
      "platform" : "edx",
      "courselink" : "https://www.edx.org/learn/data-science/harvard-university-data-science-wrangling",
-     "type" : "free",
+     "type" : "free"
    },
    {
       "id": "79",
@@ -565,6 +565,51 @@
       "courseName": "Python for everybody",
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
+   },
+   {
+      "id": "82",
+      "courseName": "Stock Market Crash Course",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=3WI9RZODuag&list=PLxNHpNhDaEFJsuzKNrMbr_SESDCCLmSu4",
+      "type": "free"
+   },
+   {
+      "id": "83",
+      "courseName": "Python for everybody",
+      "platform": "Google",
+      "courseLink": "https://www.py4e.com/lessons",
+      "type": "free"
+   },
+   {
+      "id": "84",
+      "courseName": "Digital Marketing Course in Hindi",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=kvE8RJu8Vts&list=PLXwTOG3-tRwiJmAyVJ47SVvv-dUIy2S0I",
+      "type": "free"
+   },{
+      "id": "85",
+      "courseName": "Adobe Premier Pro CC Course",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=h6eeDgBjZq8&list=PLW-zSkCnZ-gABGZU8--ISUauyewG40Yex",
+      "type": "free"
+   },{
+      "id": "86",
+      "courseName": "DCA Computer Free Course",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=u5tO8wTs_cQ&list=PLwmDa-QvqlfjPjq_aw73GuDDqjT0qQnsC",
+      "type": "free"
+   },{
+      "id": "87",
+      "courseName": "Python Course",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg",
+      "type": "free"
+   },{
+      "id": "88",
+      "courseName": "Web Development Tutorials for Beginners in Hindi",
+      "platform": "Google",
+      "courseLink": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
       "type": "free"
    }
 ]
