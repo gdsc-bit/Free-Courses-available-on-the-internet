@@ -517,5 +517,12 @@
        "platform" : "mongodb",
        "link" : "https://learn.mongodb.com/courses/mongodb-cpp-driver",
        "type" : "free"
-     }
+     },
+    {
+      "id" : "75",
+      "courseName" : "Financial Markets",
+      "platform:" : "coursera",
+      "courseLink" :"https://www.coursera.org/learn/financial-markets-global",
+      "type" : "free"
+   }
 ]
