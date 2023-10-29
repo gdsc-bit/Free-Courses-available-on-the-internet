@@ -440,5 +440,12 @@
       "platform" : "youtube",
       "courseLink" : "https://www.youtube.com/watch?v=RBSUwFGa6Fk",
       "type":"free"
+   },
+   {
+      "id" : "63",
+      "courseName" : "Angular.js",
+      "platform:" : "google",
+      "courseLink" :"https://devdocs.io/angularjs~1.8/",
+      "type" : "free"
    }
 ]
