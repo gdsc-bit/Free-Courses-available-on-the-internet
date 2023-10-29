@@ -461,5 +461,12 @@
       "platform": "Google",
       "courseLink": "https://www.py4e.com/lessons",
       "type": "free"
+   },
+   {
+      "id": "67",
+      "courseName": "Introduction to Cyber Security",
+      "platform": "Great Learning",
+      "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
+      "type": "free"
    }
 ]
