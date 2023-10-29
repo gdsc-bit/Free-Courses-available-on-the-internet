@@ -475,12 +475,47 @@
       "platform": "Great Learning",
       "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
       "type": "free"
-   }
-    {
-      "id" : "67",
-      "courseName" : "C Language Tutorial for Beginners (with Notes & Practice Questions)",
-      "platform:" : "youtube",
-      "courseLink" :"https://www.youtube.com/watch?v=irqbmMNs2Bo",
-      "type" : "free"
-    }
+   },
+   {
+       "id" :  "69",
+       "course_name" : "MongoDB with C#",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp",
+       "type" : "free"
+   },
+   {
+       "id" :  "70",
+       "course_name" : "MongoDB with JAVA",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-java-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "71",
+       "course_name" : "MongoDB with Node.js",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "72",
+       "course_name" : "MongoDB with PHP",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-php-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "73",
+       "course_name" : "MongoDB with Python",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path",
+       "type" : "free"
+     },
+     {
+       "id" :  "74",
+       "course_name" : "MongoDB C++ Driver",
+       "platform" : "mongodb",
+       "link" : "https://learn.mongodb.com/courses/mongodb-cpp-driver",
+       "type" : "free"
+     }
 ]
