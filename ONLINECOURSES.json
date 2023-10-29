@@ -166,7 +166,7 @@
       "platform" : "udemy",
       "courseLink" : "https://www.udemy.com/course/python-for-every1/",
       "type":"free"
-    },
+   },
    {
       "id" : "24",
       "courseName": "Python for everybody",
@@ -210,12 +210,12 @@
       "courseLink": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
       "type": "free"
    },
-    {
-      "id": "30",
-      "courseName": "Blender 3.0 Beginner Donut Tutorial",
-      "platform": "youtube",
-      "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
-      "type": "free"
+   {
+       "id": "30",
+       "courseName": "Blender 3.0 Beginner Donut Tutorial",
+       "platform": "youtube",
+       "courseLink": "https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD",
+       "type": "free"
    },
    {
       "id": "31",
@@ -442,4 +442,3 @@
       "type":"free"
    }
 ]
-
