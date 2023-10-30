@@ -309,17 +309,17 @@
      "type" : "paid"
    },
    {
-      "id" : "44",
-      "courseName" : "Javascript for Beginners", 
-     " platform: ": "udemy",
-      "courseLink" : "https://www.udemy.com/course/beginning-javascript/",
-      "type" : "paid"
+      "id" : "45",
+      "courseName" : "Programming with Mosh", 
+     " platform: ": "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "type" : "free"
    },
    {
-     "id" : "45",
-     "courseName" : "Ace the AP Computer Science Exam for High Schoolers",
-     "platform:" : "Educative",
-     "courseLink" : "https://www.educative.io/courses/ace-the-advanced-placement-computer-science-exam",
-     "type" : "free"
-   }
+      "id" : "46",
+      "courseName" : "React JS Full Course 2023 | Build an App and Master React in 1 Hour", 
+     " platform: ": "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=b9eMGE7QtTk",
+      "type" : "free"
+   },
 ]
