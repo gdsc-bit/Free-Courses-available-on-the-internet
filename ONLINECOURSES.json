@@ -302,6 +302,19 @@
       "type" : "paid"
    },
    {
+      "id" : "45",
+      "courseName" : "Programming with Mosh", 
+     " platform: ": "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "type" : "free"
+   },
+   {
+      "id" : "46",
+      "courseName" : "React JS Full Course 2023 | Build an App and Master React in 1 Hour", 
+     " platform: ": "youtube",
+      "courseLink" : "https://www.youtube.com/watch?v=b9eMGE7QtTk",
+      "type" : "free"
+
       "id" : "44",
       "courseName" : "Javascript for Beginners", 
       "platform: ": "udemy",
@@ -611,19 +624,21 @@
       "platform": "Google",
       "courseLink": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
       "type": "free"
+
+
    },{
       "id": "89",
       "courseName": "Technical Writing course",
       "platform": "Youtube",
       "courseLink": "https://www.youtube.com/watch?v=KbDLPz0QvvU&list=PLgQjocc9rdQmaNWBRKi_4TIk-hgeMtKyS",
       "type": "free"
-   },
-   {
+   },{
       "id": "90",
       "courseName": "Learn SQL: Multiple Tables",
       "platform": "codecademy",
       "courseLink": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
       "type": "free"
+
    }
    
 ]
