@@ -625,12 +625,20 @@
       "courseLink": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
       "type": "free"
 
+
    },{
       "id": "89",
-      "courseName": "udemy",
-      "platform": "udemy",
-      "courseLink": "https://www.udemy.com/course/the-modern-angular-bootcamp/",
+      "courseName": "Technical Writing course",
+      "platform": "Youtube",
+      "courseLink": "https://www.youtube.com/watch?v=KbDLPz0QvvU&list=PLgQjocc9rdQmaNWBRKi_4TIk-hgeMtKyS",
+      "type": "free"
+   },{
+      "id": "90",
+      "courseName": "Learn SQL: Multiple Tables",
+      "platform": "codecademy",
+      "courseLink": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
       "type": "free"
 
    }
+   
 ]
