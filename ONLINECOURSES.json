@@ -625,5 +625,12 @@
       "courseLink": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
       "type": "free"
 
+   },{
+      "id": "89",
+      "courseName": "udemy",
+      "platform": "udemy",
+      "courseLink": "https://www.udemy.com/course/the-modern-angular-bootcamp/",
+      "type": "free"
+
    }
 ]
